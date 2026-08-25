@@ -1,0 +1,81 @@
+Activity 1: LLM Models on Hugging Face
+
+Pick 3 models on Hugging Face - one small, one medium, one Large.
+
+
+1
+Model name:
+whisper-large-v3
+
+Who created the model?
+openai
+
+How many parameters does it have?
+2B params
+
+
+Is it a generative model?
+No
+
+What is context length?
+30 seconds of audio (1500 source positions)
+
+Is the model usefull for local execusion?
+Yes
+
+What hardware does the model card recommend?
+NVIDIA GPU with ~10 GB+ VRAM
+
+
+
+
+2
+Model name:
+MiniMax-H3
+
+Who created the model?
+MiniMaxAI
+
+How many parameters does it have?
+33B params
+
+
+Is it a generative model?
+Yes
+
+What is context length?
+32,768 tokens
+
+Is the model usefull for local execusion?
+Yes
+
+What hardware does the model card recommend?
+NVIDIA GPU with at least 24 GB VRAM
+
+
+
+
+3
+Model name:
+DeepSeek-V4-Flash-0731
+
+Who created the model?
+deepseek-ai
+
+How many parameters does it have?
+304B
+
+Is it a generative model?
+Yes
+
+What is context length?
+1M tokens
+
+Is the model usefull for local execusion?
+Yes
+
+What hardware does the model card recommend?
+multiple high-VRAM GPUs typically 4×80GB+ VRAM
+
+
+
